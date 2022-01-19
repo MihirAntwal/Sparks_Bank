@@ -1,8 +1,8 @@
 # SPARK FOUNDATION BANK
 Web Development and Designing Intern Task #1
-by Ridhika Sahni 
+by Mihir Antwal 
 
-A Web Application used to transfer money between multiple users (Project contains 10 dummy users). A dummy user can also be created.     
+A Web Application used to transfer money between multiple users (Project contains 3 dummy users). A dummy user can also be created.     
 
 Flow of the Website: Home Page > View all Users > Select and View one User > Transfer Money > Select reciever > View all Users > View Transfer History.
 
